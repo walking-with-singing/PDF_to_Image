@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: PDFbox1.8/fontbox-1.8.15.jar PDFbox1.8/jempbox-1.8.15.jar PDFbox1.8/pdfbox-1.8.15.jar PDFbox1.8/pdfbox-app-1.8.15.jar PDFbox1.8/preflight-1.8.15.jar PDFbox1.8/preflight-app-1.8.15.jar PDFbox1.8/xmpbox-1.8.15.jar
-Main-Class: Main

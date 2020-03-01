@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="PDFbox1.8/fontbox-1.8.15.jar"/>
+	<classpathentry kind="lib" path="PDFbox1.8/jempbox-1.8.15.jar"/>
+	<classpathentry kind="lib" path="PDFbox1.8/pdfbox-1.8.15.jar"/>
+	<classpathentry kind="lib" path="PDFbox1.8/pdfbox-app-1.8.15.jar"/>
+	<classpathentry kind="lib" path="PDFbox1.8/preflight-1.8.15.jar"/>
+	<classpathentry kind="lib" path="PDFbox1.8/preflight-app-1.8.15.jar"/>
+	<classpathentry kind="lib" path="PDFbox1.8/xmpbox-1.8.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
